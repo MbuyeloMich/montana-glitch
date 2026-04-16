@@ -1,8 +1,9 @@
 {
-  "name": "todd-hamilton-webgl",
+  "name": "montana-glitch",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "author": "Mbuyelo Mich <tonymichh@icloud.com>",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
